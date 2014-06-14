@@ -1,4 +1,3 @@
-obray-mini
-==========
+#Obray
 
-Obray PHP Framework minified into a single file.
+See documentation: http://www.obray.net
